@@ -1,0 +1,8 @@
+/Debug
+/rza
+/rza_cfg
+/rza_gen
+
+/JLinkLog.log
+/build/
+.cache/
